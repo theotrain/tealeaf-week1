@@ -95,7 +95,10 @@ def player_turn
       deal_card(@player_hand)
       show_cards
       if hand_value(@player_hand) > 21
-        puts "You Sir, are BUSTED!"
+        puts "That makes #{hand_value(@player_hand)}. You Sir, are BUSTED!"
+        play_again
+      elsif hand_value(@player_hand) == 21
+        puts "You got BLACKJACK!\nI bet you think you're pretty special."
         play_again
       end
     end
@@ -103,9 +106,11 @@ def player_turn
 end
 
 def dealer_turn
+  player = hand_value(@player_hand)
+  amount_to_beat = ( player > 17 ? player : 17 )
   begin
     deal_card(@dealer_hand)
-  end until hand_value(@dealer_hand) >= 17
+  end until hand_value(@dealer_hand) >= amount_to_beat
   show_cards
 end
 
@@ -119,11 +124,10 @@ end
 def determine_winner
   dealer = hand_value(@dealer_hand)
   player = hand_value(@player_hand)
-  puts "Dealer has #{dealer == 21 ? 'BLACKJACK' : dealer}"
-  puts "Player has #{player == 21 ? 'BLACKJACK' : player}"
+  puts "Dealer has #{dealer}"
+  puts "Player has #{player}"
   if dealer > 21  || player > dealer
-    puts "YOU WIN!"
-    puts "10 million karma bitcoins have been hyperdimensionally transferred to you"
+    puts "YOU WIN!\n10 million karma bitcoins have been hyperdimensionally transferred to you"
   elsif (dealer == player)
     puts "Its a tie!  But since we own the joint, we win and you LOSE!!!"
   else
@@ -148,6 +152,10 @@ def game_loop
   reset_hands
   deal_first_cards
   show_cards
+  if hand_value(@player_hand) == 21
+    puts "You got BLACKJACK!.. Just for sitting there."
+    play_again
+  end
   player_turn
   dealer_turn
   determine_winner
