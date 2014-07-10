@@ -1,0 +1,85 @@
+http://pastebin.com/01EwphFu
+
+Holding at: 1 
+20000 total games played
+percentage wins: 37.085
+-----------------------
+Holding at: 2 
+20000 total games played
+percentage wins: 36.79
+-----------------------
+Holding at: 3 
+20000 total games played
+percentage wins: 36.67
+-----------------------
+Holding at: 4 
+20000 total games played
+percentage wins: 36.8
+-----------------------
+Holding at: 5 
+20000 total games played
+percentage wins: 36.864999999999995
+-----------------------
+Holding at: 6 
+20000 total games played
+percentage wins: 37.68
+-----------------------
+Holding at: 7 
+20000 total games played
+percentage wins: 36.335
+-----------------------
+Holding at: 8 
+20000 total games played
+percentage wins: 36.935
+-----------------------
+Holding at: 9 
+20000 total games played
+percentage wins: 37.37
+-----------------------
+Holding at: 10 
+20000 total games played
+percentage wins: 37.68
+-----------------------
+Holding at: 11 
+20000 total games played
+percentage wins: 38.75
+-----------------------
+Holding at: 12 
+20000 total games played
+percentage wins: 39.93
+-----------------------
+Holding at: 13 
+20000 total games played
+percentage wins: 40.33
+-----------------------
+Holding at: 14 
+20000 total games played
+percentage wins: 40.82
+-----------------------
+Holding at: 15 
+20000 total games played
+percentage wins: 40.21
+-----------------------
+Holding at: 16 
+20000 total games played
+percentage wins: 40.175
+-----------------------
+Holding at: 17 
+20000 total games played
+percentage wins: 39.215
+-----------------------
+Holding at: 18 
+20000 total games played
+percentage wins: 38.03
+-----------------------
+Holding at: 19 
+20000 total games played
+percentage wins: 34.855000000000004
+-----------------------
+Holding at: 20 
+20000 total games played
+percentage wins: 29.549999999999997
+-----------------------
+Holding at: 21 
+20000 total games played
+percentage wins: 18.07
