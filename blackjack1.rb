@@ -106,11 +106,11 @@ def player_turn
 end
 
 def dealer_turn
-  player = hand_value(@player_hand)
-  amount_to_beat = ( player > 17 ? player : 17 )
+  #player = hand_value(@player_hand)
+  #amount_to_beat = ( player > 17 ? player : 17 )
   begin
     deal_card(@dealer_hand)
-  end until hand_value(@dealer_hand) >= amount_to_beat
+  end until hand_value(@dealer_hand) >= hand_value(@player_hand)
   show_cards
 end
 

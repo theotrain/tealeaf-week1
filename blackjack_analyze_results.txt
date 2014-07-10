@@ -1,85 +1,84 @@
-http://pastebin.com/01EwphFu
-
+-----------------------
 Holding at: 1 
 20000 total games played
-percentage wins: 37.085
+percentage wins: 22.335
 -----------------------
 Holding at: 2 
 20000 total games played
-percentage wins: 36.79
+percentage wins: 22.155
 -----------------------
 Holding at: 3 
 20000 total games played
-percentage wins: 36.67
+percentage wins: 22.515
 -----------------------
 Holding at: 4 
 20000 total games played
-percentage wins: 36.8
+percentage wins: 22.189999999999998
 -----------------------
 Holding at: 5 
 20000 total games played
-percentage wins: 36.864999999999995
+percentage wins: 22.835
 -----------------------
 Holding at: 6 
 20000 total games played
-percentage wins: 37.68
+percentage wins: 22.61
 -----------------------
 Holding at: 7 
 20000 total games played
-percentage wins: 36.335
+percentage wins: 22.645
 -----------------------
 Holding at: 8 
 20000 total games played
-percentage wins: 36.935
+percentage wins: 23.135
 -----------------------
 Holding at: 9 
 20000 total games played
-percentage wins: 37.37
+percentage wins: 24.02
 -----------------------
 Holding at: 10 
 20000 total games played
-percentage wins: 37.68
+percentage wins: 25.069999999999997
 -----------------------
 Holding at: 11 
 20000 total games played
-percentage wins: 38.75
+percentage wins: 26.39
 -----------------------
 Holding at: 12 
 20000 total games played
-percentage wins: 39.93
+percentage wins: 29.73
 -----------------------
 Holding at: 13 
 20000 total games played
-percentage wins: 40.33
+percentage wins: 32.32
 -----------------------
 Holding at: 14 
 20000 total games played
-percentage wins: 40.82
+percentage wins: 35.24
 -----------------------
 Holding at: 15 
 20000 total games played
-percentage wins: 40.21
+percentage wins: 37.419999999999995
 -----------------------
 Holding at: 16 
 20000 total games played
-percentage wins: 40.175
+percentage wins: 38.375
 -----------------------
 Holding at: 17 
 20000 total games played
-percentage wins: 39.215
+percentage wins: 38.895
 -----------------------
 Holding at: 18 
 20000 total games played
-percentage wins: 38.03
+percentage wins: 38.58
 -----------------------
 Holding at: 19 
 20000 total games played
-percentage wins: 34.855000000000004
+percentage wins: 35.589999999999996
 -----------------------
 Holding at: 20 
 20000 total games played
-percentage wins: 29.549999999999997
+percentage wins: 29.455
 -----------------------
 Holding at: 21 
 20000 total games played
-percentage wins: 18.07
+percentage wins: 17.98

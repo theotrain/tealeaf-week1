@@ -110,11 +110,11 @@ def player_turn(stay_value)
 end
 
 def dealer_turn
-  player = hand_value(@player_hand)
-  amount_to_beat = ( player > 17 ? player : 17 )
+  #player = hand_value(@player_hand)
+  #amount_to_beat = ( player > 17 ? player : 17 )
   begin
     deal_card(@dealer_hand)
-  end until hand_value(@dealer_hand) >= amount_to_beat
+  end until hand_value(@dealer_hand) >= hand_value(@player_hand)
   #show_cards
 end
 
@@ -212,14 +212,3 @@ initialize_decks
   @player_values = [] #store values of all player hands
   @dealer_values = [] #store values of all player hands
 end
-
-#hold at 10 - 37.5%
-#11 - 38.4%
-#12 40%
-#13 40.4
-#14 40.4
-#15 40.3
-#16 40.1
-#17 39.1
-#18 38.1
-
